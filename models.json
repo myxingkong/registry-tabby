@@ -123,5 +123,16 @@
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q8_0.gguf"
     ],
     "sha256": "a2f82242ac5e465037cbf1ed754f04f0be044ee196e1589905f9e4dcd0e6559d"
+  },
+  {
+    "license_name": "Gemma License",
+    "license_url": "https://ai.google.dev/gemma/terms",
+    "prompt_template": "<|fim_prefix|>{prefix}<|fim_suffix|>{suffix}<|fim_middle|>",
+    "name": "CodeGemma-7B-it",
+    "provider_url": "https://huggingface.co/google/codegemma-7b-it-GGUF",
+    "urls": [
+      "https://huggingface.co/google/codegemma-7b-it-GGUF/resolve/main/codegemma-7b-it.gguf"
+    ],
+    "sha256": "9068a843c5dfd46d6ac7c241fb9f66fe5d022d631d6a155dd76c485865468ab9"
   }
 ]
